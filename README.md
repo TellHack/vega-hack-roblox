@@ -35,7 +35,7 @@ We welcome contributions from the community to help improve and enhance the func
 
 ## Support
 
-If you encounter any issues or have questions about VegaX, please reach out to our support team at support@vegax.com. We are here to assist you and ensure you have a smooth and enjoyable experience with VegaX.
+If you encounter any issues or have questions about VegaX, please reach out to our support team at @tell_hack on ig We are here to assist you and ensure you have a smooth and enjoyable experience with VegaX.
 
 ---
 
