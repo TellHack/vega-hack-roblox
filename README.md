@@ -40,3 +40,6 @@ If you encounter any issues or have questions about VegaX, please reach out to o
 ---
 
 Thank you for choosing **Roblox-Vega**! Unlock the full potential of Roblox games with VegaX and take your gameplay to the next level. Happy gaming! 🎮🚀
+<P>wish you luck
+
+From Paz</P>
