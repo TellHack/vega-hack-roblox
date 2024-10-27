@@ -3,6 +3,9 @@ From Paz.Pemuda Akhir Zaman
 
 ![VegaX Logo](https://www.example.com/vegax_logo.png)
 
+https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
+
+
 ## Description
 
 Welcome to **Roblox-Vega** repository! VegaX is a powerful Windows PC executor for Roblox, designed to run Lua scripts efficiently, enabling users to unlock advanced game modifications and enhance their overall gameplay experience. Whether you are looking to streamline your gameplay, gain a competitive edge, or simply explore the endless possibilities within Roblox games, VegaX has got you covered.
