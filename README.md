@@ -1,9 +1,9 @@
 # Roblox-Vega
 From Paz.Pemuda Akhir Zaman
 
-![VegaX Logo](https://www.example.com/vegax_logo.png)
+![VegaX Logo]()
 
-https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
+https://github.com/user-attachments/assets/5ce4ae49-f2d8-484c-8833-9a678f681ab7
 
 
 ## Description
