@@ -1,5 +1,5 @@
 # Roblox-Vega
-#From Paz.Pemuda Akhir Zaman
+From Paz.Pemuda Akhir Zaman
 
 ![VegaX Logo](https://www.example.com/vegax_logo.png)
 
