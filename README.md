@@ -3,8 +3,8 @@ From Paz.Pemuda Akhir Zaman
 
 ![VegaX Logo]()
 
-https://github.com/user-attachments/assets/5ce4ae49-f2d8-484c-8833-9a678f681ab7
 
+https://github.com/user-attachments/assets/6d082ed0-90c9-4e87-ad1a-0a7e10ae5a44
 
 ## Description
 
@@ -45,7 +45,7 @@ If you encounter any issues or have questions about VegaX, please reach out to o
 
 Thank you for choosing **Roblox-Vega**! Unlock the full potential of Roblox games with VegaX and take your gameplay to the next level. Happy gaming! 🎮🚀
 
-https://github.com/user-attachments/assets/6d082ed0-90c9-4e87-ad1a-0a7e10ae5a44
+https://github.com/user-attachments/assets/5ce4ae49-f2d8-484c-8833-9a678f681ab7
 
 <P>wish you luck
 
