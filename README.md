@@ -45,7 +45,7 @@ If you encounter any issues or have questions about VegaX, please reach out to o
 
 Thank you for choosing **Roblox-Vega**! Unlock the full potential of Roblox games with VegaX and take your gameplay to the next level. Happy gaming! 🎮🚀
 
-https://github.com/user-attachments/assets/5ce4ae49-f2d8-484c-8833-9a678f681ab7
+https://github.com/user-attachments/assets/3c9393e1-c3b7-42f7-93b8-59785ee02afb
 
 <P>wish you luck
 
